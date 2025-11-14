@@ -17,4 +17,3 @@ jobs:
           username: "RinSeoOo"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
                                                   # and will pull your github token automatically
-          use_static_image: false
