@@ -15,7 +15,7 @@
 
 ---
 &nbsp;
-![tryhackme stats](https://raw.githubusercontent.com/RinSeoOo/RinSeoOo/master/assets/thm_propic.png)
+[![RinSeoOo's tryhackme stats](https://raw.githubusercontent.com/RinSeoOo/RinSeoOo/master/assets/thm_propic.png)][tryhackme]
 
 &nbsp;
 [![Solved.ac
@@ -29,3 +29,4 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=msy010421)](https://solv
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRinSeoOo%2Fhit-counter&count_bg=%2396AFD9&title_bg=%23323866&icon=&icon_color=%23294268&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 -->
+[tryhackme]: https://tryhackme.com/p/RinSeoOo
