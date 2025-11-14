@@ -15,6 +15,9 @@
 
 ---
 &nbsp;
+![tryhackme stats](https://raw.githubusercontent.com/RinSeoOo/RinSeoOo/master/assets/thm_propic.png)
+
+&nbsp;
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/generate_badge?boj=msy010421)](https://solved.ac/msy010421)
 
