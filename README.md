@@ -15,7 +15,10 @@
 
 ---
 &nbsp;
-[![RinSeoOo's tryhackme stats](https://raw.githubusercontent.com/RinSeoOo/RinSeoOo/master/assets/thm_propic.png)][tryhackme]
+[<img src="https://tryhackme-badges.s3.amazonaws.com/RinSeoOo.png" alt="RinSeoOo TryHackMe badge" />][tryhackme]
+
+<!--&nbsp;
+[![RinSeoOo's tryhackme stats](https://raw.githubusercontent.com/RinSeoOo/RinSeoOo/master/assets/thm_propic.png)][tryhackme]-->
 
 &nbsp;
 [![Solved.ac
