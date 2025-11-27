@@ -25,8 +25,8 @@
 Profile](http://mazassumnida.wtf/api/generate_badge?boj=msy010421)](https://solved.ac/msy010421)
 
  
-&nbsp;
-[![Anurag's github stats|0.1](https://github-readme-stats.vercel.app/api?username=RinSeoOo)](https://github.com/anuraghazra/github-readme-stats)
+<!--&nbsp;
+[![Anurag's github stats|0.1](https://github-readme-stats.vercel.app/api?username=RinSeoOo)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRinSeoOo%2Fhit-counter&count_bg=%2396AFD9&title_bg=%23323866&icon=&icon_color=%23294268&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
