@@ -4,14 +4,10 @@
 ### 🔗 Link
 <a href="https://blog.naver.com/eorindal821"><img src="https://img.shields.io/badge/Daily%20Life-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a> <a href="https://mseoyoung4210.tistory.com/"><img src="https://img.shields.io/badge/Tech%20blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
-###  Tech Stack
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-
-
-
-### 🔨 Tools
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+### My Skills
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{RinSeoOo}?pet-id=1" width="600" height="300"/>
+</a>
 
 ---
 &nbsp;
