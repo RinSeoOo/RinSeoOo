@@ -2,7 +2,7 @@
 
 
 ### 🔗 Link
-<a href="https://blog.naver.com/eorindal821"><img src="https://img.shields.io/badge/Daily%20Life-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a> <a href="https://mseoyoung4210.tistory.com/"><img src="https://img.shields.io/badge/Tech%20blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<a href="https://mseoyoung4210.tistory.com/"><img src="https://img.shields.io/badge/Tech%20blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
 ### My Skills
 <a href="https://github.com/devxb/gitanimals">
